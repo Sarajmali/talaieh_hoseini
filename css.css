@@ -106,15 +106,15 @@
   }
   
   .instagram {
-    background-image: url(../Image/Instagram.png);
+    background-image: url(Image/Instagram.png);
   }
   
   .youtube {
-    background-image: url(../Image/youtube.png);
+    background-image: url(Image/youtube.png);
   }
   
   .twitter {
-    background-image: url(../Image/twitter.png);
+    background-image: url(Image/twitter.png);
   }
   
   .social-icon:hover {
